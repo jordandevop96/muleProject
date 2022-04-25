@@ -2,4 +2,4 @@ apiVersion: v1
 metadata:
 	name:john
 	age:20
-	role:developer
+	role:QA
